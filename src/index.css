@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+tr.done { background-color: #DDFFDD; }
+tr.error { background-color: #FF9999; }
+table { border-collapse: collapse; }
+td, th { padding: 5px; }
